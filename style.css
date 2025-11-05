@@ -5,10 +5,13 @@
 /* ---------- Root Theme Variables ---------- */
 :root {
   --primary-color: #C21888;
+  --hover-accent: #E06FE3;
   --secondary-color: #6A1B9A;
   --light-accent: #FF4FA6;
-  --bg-gradient: linear-gradient(135deg, #1B0034 0%, #43004C 100%);
-  --text-color: #F8F9FA;
+  --bg-gradient: linear-gradient(135deg, #16002A 0%, #2E0053 100%);
+  --text-color: #F2EBFA;
+  --nav-link-color: #f0ebff;
+  --nav-link-hover: #B8A2FF;
 }
 
 /* ---------- Global Layout ---------- */
@@ -31,12 +34,12 @@ body {
 
 /* ---------- Links ---------- */
 a {
-  color: var(--light-accent);
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: #fff;
+  color: var(--hover-accent);
   text-decoration: underline;
 }
 
@@ -47,25 +50,24 @@ a:hover {
 }
 
 .navbar .navbar-brand {
-  color: #ffffff;
+  color: var(--nav-link-color);
   font-weight: 600;
   font-size: 1.4rem;
   letter-spacing: 0.5px;
 }
 
 .navbar .navbar-brand:hover {
-  color: var(--light-accent);
+  color: var(--nav-link-hover);
 }
 
 .navbar .navbar-nav .nav-link {
-  color: #f8f9fa !important;
+  color: var(--nav-link-color) !important;
   font-weight: 500;
-  transition: color 0.3s ease, text-shadow 0.3s ease;
+  transition: color 0.3s ease;
 }
 
 .navbar .navbar-nav .nav-link:hover {
-  color: var(--light-accent) !important;
-  text-shadow: 0 0 8px var(--light-accent);
+  color: var(--nav-link-hover) !important;
 }
 
 /* ---------- Spacing Fixes ---------- */
@@ -89,7 +91,7 @@ main {
 }
 
 .hero-card h1 {
-  color: var(--light-accent);
+  color: var(--nav-link-color);
   font-weight: 700;
   margin-bottom: 1rem;
 }
@@ -112,10 +114,11 @@ main {
 .btn-primary {
   background-color: var(--primary-color);
   border: none;
+  color: #fff;
 }
 
 .btn-primary:hover {
-  background-color: var(--light-accent);
+  background-color: var(--hover-accent);
 }
 
 /* ---------- Forms ---------- */
