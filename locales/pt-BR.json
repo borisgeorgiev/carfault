@@ -1,0 +1,141 @@
+{
+  "common": {
+    "site_name": "Car Fault",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "copyright": "© 2025 Car Fault"
+  },
+  "home": {
+    "tagline": "Seu assistente inteligente para problemas no carro.",
+    "description": "De ruídos estranhos a luzes de aviso piscando e códigos de erro, o Car Fault interpreta suas informações para explicar o que está acontecendo, estimar a gravidade e guiá-lo para a solução correta.",
+    "features": {
+      "fast_diagnosis": "Diagnóstico Rápido",
+      "fast_diagnosis_desc": "Envie uma imagem ou descreva o problema; receba uma explicação clara rapidamente.",
+      "actionable_fixes": "Soluções Práticas",
+      "actionable_fixes_desc": "Quando disponível, veja verificações e correções sugeridas, além da gravidade do problema.",
+      "privacy_first": "Privacidade em Primeiro Lugar",
+      "privacy_first_desc": "Não é necessário criar conta. Análises apenas via Firebase (veja a Política de Privacidade)."
+    },
+    "how_it_works": {
+      "title": "Como funciona",
+      "steps": {
+        "upload": "Enviar ou Descrever",
+        "upload_desc": "Tire uma foto da luz de aviso ou escreva uma breve descrição do problema.",
+        "analysis": "Análise por IA",
+        "analysis_desc": "O Car Fault analisa a imagem/texto com base em uma base de conhecimento automotivo para identificar causas prováveis.",
+        "explanation": "Explicação e Soluções",
+        "explanation_desc": "Receba uma avaliação de gravidade, possíveis causas e ações ou correções recomendadas, se disponíveis."
+      },
+      "cta": "Pronto para diagnosticar seu carro?"
+    }
+  },
+
+  "terms": {
+    "title": "Termos e Condições",
+    "last_updated": "Última atualização: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Introdução",
+        "content": "Estes Termos e Condições (\"Termos\") regem o uso do aplicativo móvel Car Fault (o \"App\"). Ao usar o App, você concorda em estar vinculado a estes Termos. Se não concordar, por favor, não use o App. O App é desenvolvido e operado por um desenvolvedor independente com sede na União Europeia (o \"Desenvolvedor\")."
+      },
+      "2": {
+        "title": "Uso do App",
+        "content": "O App fornece orientações gerais sobre alertas do painel do veículo e possíveis problemas. As informações são apenas para referência e não substituem diagnóstico ou reparo profissional. Os usuários assumem todos os riscos das ações tomadas com base nas orientações do App."
+      },
+      "3": {
+        "title": "Sem Garantia",
+        "content": "O App é fornecido \"como está\", sem garantias. Precisão ou confiabilidade não são garantidas."
+      },
+      "4": {
+        "title": "Limitação de Responsabilidade",
+        "content": "O Desenvolvedor não se responsabiliza por quaisquer danos decorrentes do uso ou incapacidade de usar o App, incluindo danos ao veículo ou lesões pessoais."
+      },
+      "5": {
+        "title": "Assinaturas e Pagamentos",
+        "content": "O App pode oferecer assinaturas automáticas para recursos premium. Todos os pagamentos são processados pela App Store da Apple. Os usuários podem gerenciar ou cancelar assinaturas nas configurações de sua conta Apple ID. Reembolsos seguem as políticas da Apple. O Desenvolvedor não tem acesso às informações de pagamento."
+      },
+      "6": {
+        "title": "Privacidade e Dados",
+        "content": "O App não coleta dados pessoais. SDKs de análise e marketing (Firebase, Facebook) são usados para entender padrões de uso. Para mais detalhes, veja nossa Política de Privacidade."
+      },
+      "7": {
+        "title": "Propriedade Intelectual",
+        "content": "Todo o conteúdo, gráficos e marcas registradas são propriedade do Desenvolvedor ou licenciados a ele. Não é permitido copiar, distribuir ou modificar qualquer conteúdo sem permissão."
+      },
+      "8": {
+        "title": "Isenção de Responsabilidade",
+        "content": "O App fornece orientações gerais. Consulte um mecânico qualificado para diagnóstico ou reparo profissional. O Desenvolvedor não é responsável por danos ou lesões resultantes de ações baseadas nas informações do App."
+      },
+      "9": {
+        "title": "Alterações nos Termos",
+        "content": "O Desenvolvedor pode atualizar estes Termos. O uso contínuo após as atualizações constitui aceitação dos Termos revisados."
+      },
+      "10": {
+        "title": "Lei Aplicável",
+        "content": "Estes Termos são regidos pelas leis da União Europeia, independentemente dos princípios de conflitos de leis."
+      },
+      "11": {
+        "title": "Contato",
+        "content": "Para perguntas, entre em contato conosco através do formulário de feedback."
+      }
+    }
+  },
+
+  "privacy": {
+    "title": "Política de Privacidade",
+    "last_updated": "Última atualização: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Introdução",
+        "content": "Esta Política de Privacidade explica como o aplicativo móvel Car Fault (o \"App\") trata as informações. O App é desenvolvido e operado por um desenvolvedor independente com sede na União Europeia (o \"Desenvolvedor\"). Car Fault não coleta nem armazena dados pessoais. O App fornece orientações gerais sobre luzes de aviso do veículo e possíveis problemas."
+      },
+      "2": {
+        "title": "Informações que NÃO Coletamos",
+        "content": "O App não solicita, coleta ou armazena informações pessoais identificáveis, como nome, endereço de e-mail, dados de contato ou registro de conta. Ele não rastreia usuários em outros aplicativos ou sites."
+      },
+      "3": {
+        "title": "Informações Coletadas Automaticamente",
+        "content": "Para melhorar o App e entender padrões de uso, o Car Fault usa ferramentas de análise de terceiros que coletam dados técnicos não identificáveis:\n- Firebase Analytics (Google LLC): coleta métricas anônimas, como duração da sessão, relatórios de falhas e tipo de dispositivo. Esses dados não são usados para rastrear você em outros aplicativos ou sites. Política de Privacidade do Google.\n- Facebook SDK (Meta Platforms, Inc.): coleta dados agregados de uso para medir campanhas de marketing. Nenhum identificador pessoal é compartilhado com o Desenvolvedor. Política de Privacidade do Facebook."
+      },
+      "4": {
+        "title": "Como os Dados de Análise São Usados",
+        "content": "Os dados são usados exclusivamente para melhorar o App, compreender o engajamento do usuário e otimizar recursos. Os usuários podem desativar a coleta de análise através das configurações do dispositivo ou das opções do App."
+      },
+      "5": {
+        "title": "Assinaturas e Pagamentos",
+        "content": "O Car Fault oferece assinaturas automáticas opcionais. Toda a gestão de pagamentos e assinaturas é realizada pelo App Store da Apple. O Desenvolvedor não tem acesso às informações de pagamento. Os usuários podem gerenciar ou cancelar suas assinaturas nas configurações de sua conta Apple ID."
+      },
+      "6": {
+        "title": "Segurança de Dados",
+        "content": "O App não transmite dados pessoais para servidores externos controlados pelo Desenvolvedor. Os dados de análise são gerenciados de acordo com as políticas de segurança de terceiros. Nenhum sistema pode ser totalmente seguro."
+      },
+      "7": {
+        "title": "Seus Direitos e Escolhas",
+        "content": "Os usuários podem gerenciar as preferências de análise através das configurações do dispositivo. Como o App não armazena dados pessoais, não há informações pessoais para excluir ou exportar."
+      },
+      "8": {
+        "title": "Privacidade Infantil",
+        "content": "O App não se destina a crianças menores de 16 anos. Não coleta nem processa intencionalmente dados pessoais de crianças."
+      },
+      "9": {
+        "title": "Alterações Nesta Política",
+        "content": "O Desenvolvedor pode atualizar esta Política de Privacidade. O uso contínuo do App após as atualizações constitui aceitação da política revisada."
+      },
+      "10": {
+        "title": "Contato",
+        "content": "Para perguntas sobre privacidade, entre em contato conosco através do formulário de feedback."
+      }
+    }
+  },
+
+  "feedback": {
+    "title": "Envie-nos seu feedback",
+    "description": "Apreciamos suas opiniões — reporte bugs, sugestões ou comentários gerais.",
+    "fields": {
+      "name": "Nome (opcional)",
+      "email": "E-mail (opcional)",
+      "message": "Mensagem"
+    },
+    "submit": "Enviar"
+  }
+}

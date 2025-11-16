@@ -3,20 +3,37 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Feedback — Car Fault</title>
+    <title data-i18n="feedback.title">Feedback — Car Fault</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg py-3">
       <div class="container-lg">
-        <a class="navbar-brand fw-bold" href="index.html">Car Fault</a>
+        <a class="navbar-brand fw-bold" href="index.html" data-i18n="common.site_name">Car Fault</a>
         <div class="collapse navbar-collapse" id="navMenu">
           <ul class="navbar-nav ms-auto align-items-lg-center">
-            <li class="nav-item"><a class="nav-link" href="terms.html">Terms</a></li>
-            <li class="nav-item"><a class="nav-link" href="privacy.html">Privacy</a></li>
+            <li class="nav-item"><a class="nav-link" href="terms.html" data-i18n="common.terms">Terms</a></li>
+            <li class="nav-item"><a class="nav-link" href="privacy.html" data-i18n="common.privacy">Privacy</a></li>
           </ul>
         </div>
+<div class="dropdown ms-3">
+  <button class="btn btn-outline-light dropdown-toggle d-flex align-items-center" type="button" id="langDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+    <span id="currentLangIcon" class="fi fi-us"></span>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" id="langDropdownMenu">
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="en"><span class="fi fi-us me-2"></span>English</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="de"><span class="fi fi-de me-2"></span>Deutsch</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="es"><span class="fi fi-es me-2"></span>Español</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="fr"><span class="fi fi-fr me-2"></span>Français</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="it"><span class="fi fi-it me-2"></span>Italiano</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="nl"><span class="fi fi-nl me-2"></span>Nederlands</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="ru"><span class="fi fi-ru me-2"></span>Русский</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="zh-Hans"><span class="fi fi-cn me-2"></span>中文</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="pt-BR"><span class="fi fi-br me-2"></span>Português (BR)</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="ar"><span class="fi fi-sa me-2"></span>العربية</a></li>
+  </ul>
+</div>
       </div>
     </nav>
 
@@ -24,23 +41,23 @@
       <div class="row justify-content-center">
         <div class="col-lg-8">
           <div class="card p-4 mt-4">
-            <h3 class="mb-3">Send us feedback</h3>
-            <p class="small text-muted">We appreciate your thoughts — report bugs, suggestions, or general feedback.</p>
+            <h3 class="mb-3" data-i18n="feedback.title">Send us feedback</h3>
+            <p class="small text-muted" data-i18n="feedback.description">We appreciate your thoughts — report bugs, suggestions, or general feedback.</p>
             <form id="feedback-form" action="https://formsubmit.co/c7094777df3bc424509d7638ca319a5e" method="POST">
               <div class="mb-3">
-                <label class="form-label">Name (optional)</label>
-                <input class="form-control" id="name" name="name" placeholder="Your name">
+                <label class="form-label" data-i18n="feedback.fields.name">Name (optional)</label>
+                <input class="form-control" id="name" name="name" placeholder="" data-i18n-placeholder="feedback.fields.name">
               </div>
               <div class="mb-3">
-                <label class="form-label">Email (optional)</label>
-                <input class="form-control" id="email" name="email" placeholder="you@example.com" type="email">
+                <label class="form-label" data-i18n="feedback.fields.email">Email (optional)</label>
+                <input class="form-control" id="email" name="email" type="email" placeholder="" data-i18n-placeholder="feedback.fields.email">
               </div>
               <div class="mb-3">
-                <label class="form-label">Message</label>
-                <textarea class="form-control" id="message" name="message" rows="6" required></textarea>
+                <label class="form-label" data-i18n="feedback.fields.message">Message</label>
+                <textarea class="form-control" id="message" name="message" rows="6" required placeholder="" data-i18n-placeholder="feedback.fields.message"></textarea>
               </div>
               <div class="d-flex justify-content-end">
-                <button class="btn btn-primary" type="submit">Send Feedback</button>
+                <button class="btn btn-primary" type="submit" data-i18n="feedback.submit">Send Feedback</button>
               </div>
             </form>
           </div>
@@ -48,7 +65,7 @@
       </div>
 
       <footer class="mt-5 footer text-center">
-        <p class="mb-1">© 2025 Car Fault</p>
+        <p class="mb-1" data-i18n="common.copyright">© 2025 Car Fault</p>
       </footer>
     </main>
 

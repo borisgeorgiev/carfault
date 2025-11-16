@@ -1,0 +1,81 @@
+{
+  "common": {
+    "site_name": "Car Fault",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "copyright": "© 2025 Car Fault"
+  },
+  "home": {
+    "tagline": "Your intelligent car problem assistant.",
+    "description": "From strange noises to flashing warning lights and error codes, Car Fault interprets your input to explain what’s happening, estimate severity, and guide you toward the right solution.",
+    "features": {
+      "fast_diagnosis": "Fast Diagnosis",
+      "fast_diagnosis_desc": "Upload an image or describe the issue; receive a clear explanation quickly.",
+      "actionable_fixes": "Actionable Fixes",
+      "actionable_fixes_desc": "Where available, see suggested checks and fixes and the severity of the problem.",
+      "privacy_first": "Privacy-first",
+      "privacy_first_desc": "No user accounts required. Analytics only via Firebase (see Privacy Policy)."
+    },
+    "how_it_works": {
+      "title": "How it works",
+      "steps": {
+        "upload": "Upload or Describe",
+        "upload_desc": "Take a photo of the warning light or write a brief description of the issue.",
+        "analysis": "AI Analysis",
+        "analysis_desc": "Car Fault analyzes the image/text against an automotive knowledge base to identify likely causes.",
+        "explanation": "Explanation & Fixes",
+        "explanation_desc": "Receive a severity rating, possible causes, and recommended actions or fixes if available."
+      },
+      "cta": "Ready to diagnose your car?"
+    }
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "last_updated": "Last updated: 2025-10-30",
+    "sections": {
+      "1": {
+        "title": "Introduction",
+        "content": "These Terms and Conditions (\"Terms\") govern your use of the Car Fault mobile application (the \"App\"). By using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App. The App is developed and operated by an independent developer based in the European Union (the \"Developer\")."
+      },
+      "2": {
+        "title": "Use of the App",
+        "content": "The App provides general guidance about vehicle dashboard warnings and possible issues. The information is for reference only and does not replace professional diagnostics or repair. Users assume all risk for actions taken based on the App’s guidance."
+      },
+      "3": {"title": "No Warranty", "content": "The App is provided \"as is\" without warranties. Accuracy or reliability is not guaranteed."},
+      "4": {"title": "Limitation of Liability", "content": "The Developer is not liable for any damages arising from the use or inability to use the App, including vehicle damage or personal injury."},
+      "5": {"title": "Subscriptions & Payments", "content": "The App may offer auto-renewable subscriptions for premium features. All payments are processed through Apple’s App Store. Users can manage or cancel subscriptions in their Apple ID account settings. Refunds follow Apple’s policies. The Developer does not access payment information."},
+      "6": {"title": "Privacy & Data", "content": "The App does not collect personal data. Analytics and marketing SDKs (Firebase, Facebook) are used to understand usage patterns. For details, see our Privacy Policy."},
+      "7": {"title": "Intellectual Property", "content": "All content, graphics, and trademarks are owned by the Developer or licensed to the Developer. You may not copy, distribute, or modify any content without permission."},
+      "8": {"title": "Disclaimer", "content": "The App provides general guidance. Consult a qualified mechanic for professional diagnosis or repair. The Developer is not responsible for any damage or injury resulting from actions based on App information."},
+      "9": {"title": "Changes to Terms", "content": "The Developer may update these Terms. Continued use after updates constitutes acceptance of the revised Terms."},
+      "10": {"title": "Governing Law", "content": "These Terms are governed by the laws of the European Union, without regard to conflict of law principles."},
+      "11": {"title": "Contact", "content": "For questions, please contact us via the feedback form."}
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: 2025-10-30",
+    "sections": {
+      "1": {"title": "Introduction", "content": "This Privacy Policy explains how the Car Fault mobile application (the \"App\") handles information. The App is developed and operated by an independent developer based in the European Union (the \"Developer\"). Car Fault does not collect or store any personal data. The App provides general informational guidance about vehicle warning lights and potential issues."},
+      "2": {"title": "Information We Do Not Collect", "content": "The App does not request, collect, or store personally identifiable information such as your name, email address, contact details, or account registration. It does not track users across other apps or websites."},
+      "3": {"title": "Information Collected Automatically", "content": "To improve the App and understand usage patterns, Car Fault uses third-party analytics tools that collect non-identifying technical data:\n- Firebase Analytics (Google LLC): collects anonymized metrics such as session duration, crash reports, and device type. This data is not used to track you across other apps or websites. Google Privacy Policy.\n- Facebook SDK (Meta Platforms, Inc.): collects aggregated usage data for marketing campaign measurement. No personal identifiers are shared with the Developer. Facebook Privacy Policy."},
+      "4": {"title": "How Analytics Data Is Used", "content": "Data is used solely to improve the App, understand user engagement, and optimize features. Users can disable analytics collection via device settings or app options."},
+      "5": {"title": "Subscriptions and Payments", "content": "Car Fault offers optional auto-renewable subscriptions. All payment and subscription management is handled through Apple’s App Store. The Developer does not have access to payment information. Users can manage or cancel subscriptions in their Apple ID account settings."},
+      "6": {"title": "Data Security", "content": "The App does not transmit personal data to external servers controlled by the Developer. Analytics data is managed according to third-party security policies. No system can be guaranteed fully secure."},
+      "7": {"title": "Your Rights and Choices", "content": "Users can manage analytics preferences via device settings. Since the App does not store personal data, there is no personal information to delete or export."},
+      "8": {"title": "Children’s Privacy", "content": "The App is not intended for children under 16 years. It does not knowingly collect or process personal data from children."},
+      "9": {"title": "Changes to This Policy", "content": "The Developer may update this Privacy Policy. Continued use of the App after updates constitutes acceptance of the revised policy."},
+      "10": {"title": "Contact", "content": "For privacy questions, please contact us via the feedback form."}
+    }
+  },
+  "feedback": {
+    "title": "Send us feedback",
+    "description": "We appreciate your thoughts — report bugs, suggestions, or general feedback.",
+    "fields": {
+      "name": "Name (optional)",
+      "email": "Email (optional)",
+      "message": "Message"
+    },
+    "submit": "Send"
+  }
+}

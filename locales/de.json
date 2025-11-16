@@ -1,0 +1,141 @@
+{
+  "common": {
+    "site_name": "Car Fault",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz",
+    "copyright": "© 2025 Car Fault"
+  },
+  "home": {
+    "tagline": "Ihr intelligenter Assistent für Autoprobleme.",
+    "description": "Von seltsamen Geräuschen bis hin zu blinkenden Warnleuchten und Fehlercodes interpretiert Car Fault Ihre Eingaben, um zu erklären, was passiert, die Schwere einzuschätzen und Sie zur richtigen Lösung zu führen.",
+    "features": {
+      "fast_diagnosis": "Schnelle Diagnose",
+      "fast_diagnosis_desc": "Laden Sie ein Bild hoch oder beschreiben Sie das Problem; erhalten Sie schnell eine klare Erklärung.",
+      "actionable_fixes": "Umsetzbare Lösungen",
+      "actionable_fixes_desc": "Wo verfügbar, sehen Sie empfohlene Prüfungen und Lösungen sowie die Schwere des Problems.",
+      "privacy_first": "Datenschutz zuerst",
+      "privacy_first_desc": "Keine Benutzerkonten erforderlich. Analysen nur über Firebase (siehe Datenschutzrichtlinie)."
+    },
+    "how_it_works": {
+      "title": "So funktioniert es",
+      "steps": {
+        "upload": "Hochladen oder Beschreiben",
+        "upload_desc": "Machen Sie ein Foto der Warnleuchte oder schreiben Sie eine kurze Beschreibung des Problems.",
+        "analysis": "KI-Analyse",
+        "analysis_desc": "Car Fault analysiert das Bild/den Text anhand einer automobilen Wissensdatenbank, um wahrscheinliche Ursachen zu identifizieren.",
+        "explanation": "Erklärung & Lösungen",
+        "explanation_desc": "Erhalten Sie eine Schwerebewertung, mögliche Ursachen und empfohlene Maßnahmen oder Lösungen, falls verfügbar."
+      },
+      "cta": "Bereit, Ihr Auto zu diagnostizieren?"
+    }
+  },
+
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "last_updated": "Letzte Aktualisierung: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Einleitung",
+        "content": "Diese Nutzungsbedingungen (\"Bedingungen\") regeln die Nutzung der mobilen Anwendung Car Fault (die \"App\"). Durch die Nutzung der App erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie nicht einverstanden sind, verwenden Sie die App bitte nicht. Die App wird von einem unabhängigen Entwickler mit Sitz in der Europäischen Union (der \"Entwickler\") entwickelt und betrieben."
+      },
+      "2": {
+        "title": "Nutzung der App",
+        "content": "Die App bietet allgemeine Anleitungen zu Fahrzeug-Warnleuchten und möglichen Problemen. Die Informationen dienen nur als Referenz und ersetzen keine professionelle Diagnose oder Reparatur. Nutzer tragen das volle Risiko für Handlungen, die auf den Anleitungen der App basieren."
+      },
+      "3": {
+        "title": "Keine Gewährleistung",
+        "content": "Die App wird \"wie besehen\" bereitgestellt, ohne Gewährleistung. Genauigkeit oder Zuverlässigkeit wird nicht garantiert."
+      },
+      "4": {
+        "title": "Haftungsbeschränkung",
+        "content": "Der Entwickler haftet nicht für Schäden, die aus der Nutzung oder Unfähigkeit zur Nutzung der App entstehen, einschließlich Fahrzeugschäden oder Personenschäden."
+      },
+      "5": {
+        "title": "Abonnements & Zahlungen",
+        "content": "Die App kann automatisch verlängerbare Abonnements für Premium-Funktionen anbieten. Alle Zahlungen werden über den App Store von Apple abgewickelt. Nutzer können ihre Abonnements in den Einstellungen ihres Apple-ID-Kontos verwalten oder kündigen. Rückerstattungen erfolgen gemäß den Richtlinien von Apple. Der Entwickler hat keinen Zugriff auf Zahlungsinformationen."
+      },
+      "6": {
+        "title": "Datenschutz & Daten",
+        "content": "Die App sammelt keine persönlichen Daten. Analytik- und Marketing-SDKs (Firebase, Facebook) werden verwendet, um Nutzungsmuster zu verstehen. Details finden Sie in unserer Datenschutzrichtlinie."
+      },
+      "7": {
+        "title": "Geistiges Eigentum",
+        "content": "Alle Inhalte, Grafiken und Marken sind Eigentum des Entwicklers oder lizenziert. Inhalte dürfen ohne Erlaubnis nicht kopiert, verteilt oder verändert werden."
+      },
+      "8": {
+        "title": "Haftungsausschluss",
+        "content": "Die App bietet allgemeine Anleitungen. Konsultieren Sie einen qualifizierten Mechaniker für professionelle Diagnose oder Reparatur. Der Entwickler ist nicht verantwortlich für Schäden oder Verletzungen, die aus Handlungen basierend auf den Informationen der App resultieren."
+      },
+      "9": {
+        "title": "Änderungen der Bedingungen",
+        "content": "Der Entwickler kann diese Bedingungen aktualisieren. Die fortgesetzte Nutzung nach Updates gilt als Akzeptanz der überarbeiteten Bedingungen."
+      },
+      "10": {
+        "title": "Anwendbares Recht",
+        "content": "Diese Bedingungen unterliegen dem Recht der Europäischen Union, unabhängig von kollisionsrechtlichen Grundsätzen."
+      },
+      "11": {
+        "title": "Kontakt",
+        "content": "Bei Fragen kontaktieren Sie uns bitte über das Feedback-Formular."
+      }
+    }
+  },
+
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "last_updated": "Letzte Aktualisierung: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Einleitung",
+        "content": "Diese Datenschutzrichtlinie erklärt, wie die mobile Anwendung Car Fault (die \"App\") Informationen verarbeitet. Die App wird von einem unabhängigen Entwickler mit Sitz in der Europäischen Union (dem \"Entwickler\") entwickelt und betrieben. Car Fault sammelt oder speichert keine persönlichen Daten. Die App bietet allgemeine Informationen zu Fahrzeug-Warnleuchten und möglichen Problemen."
+      },
+      "2": {
+        "title": "Informationen, die wir NICHT sammeln",
+        "content": "Die App fordert keine personenbezogenen Daten an, sammelt oder speichert sie nicht, wie Name, E-Mail-Adresse, Kontaktdaten oder Kontoanmeldung. Die App verfolgt Nutzer nicht über andere Apps oder Websites."
+      },
+      "3": {
+        "title": "Automatisch gesammelte Informationen",
+        "content": "Um die App zu verbessern und Nutzungsmuster zu verstehen, verwendet Car Fault Drittanbieter-Analysetools, die nicht identifizierende technische Daten sammeln:\n- Firebase Analytics (Google LLC): sammelt anonymisierte Metriken wie Sitzungsdauer, Absturzberichte und Gerätetyp. Diese Daten werden nicht verwendet, um Sie über andere Apps oder Websites hinweg zu verfolgen. Datenschutzerklärung von Google.\n- Facebook SDK (Meta Platforms, Inc.): sammelt aggregierte Nutzungsdaten zur Messung von Marketingkampagnen. Keine persönlichen Kennungen werden mit dem Entwickler geteilt. Datenschutzerklärung von Facebook."
+      },
+      "4": {
+        "title": "Verwendung der Analysedaten",
+        "content": "Die Daten werden ausschließlich verwendet, um die App zu verbessern, das Nutzerengagement zu verstehen und Funktionen zu optimieren. Nutzer können die Datenerfassung über die Geräteeinstellungen oder App-Optionen deaktivieren."
+      },
+      "5": {
+        "title": "Abonnements und Zahlungen",
+        "content": "Car Fault bietet optionale automatisch verlängerbare Abonnements an. Alle Zahlungen und Abonnements werden über den App Store von Apple verwaltet. Der Entwickler hat keinen Zugriff auf Zahlungsinformationen. Nutzer können ihre Abonnements in den Einstellungen ihres Apple-ID-Kontos verwalten oder kündigen."
+      },
+      "6": {
+        "title": "Datensicherheit",
+        "content": "Die App überträgt keine persönlichen Daten an externe Server, die vom Entwickler kontrolliert werden. Analysedaten werden gemäß den Sicherheitsrichtlinien Dritter verwaltet. Kein System kann vollständig sicher garantiert werden."
+      },
+      "7": {
+        "title": "Ihre Rechte und Wahlmöglichkeiten",
+        "content": "Nutzer können Analysepräferenzen über die Geräteeinstellungen verwalten. Da die App keine persönlichen Daten speichert, gibt es keine persönlichen Informationen zum Löschen oder Exportieren."
+      },
+      "8": {
+        "title": "Kinderschutz",
+        "content": "Die App ist nicht für Kinder unter 16 Jahren vorgesehen. Es werden keine personenbezogenen Daten von Kindern wissentlich gesammelt oder verarbeitet."
+      },
+      "9": {
+        "title": "Änderungen dieser Richtlinie",
+        "content": "Der Entwickler kann diese Datenschutzrichtlinie aktualisieren. Die fortgesetzte Nutzung der App nach Updates gilt als Akzeptanz der überarbeiteten Richtlinie."
+      },
+      "10": {
+        "title": "Kontakt",
+        "content": "Bei Fragen zum Datenschutz kontaktieren Sie uns bitte über das Feedback-Formular."
+      }
+    }
+  },
+
+  "feedback": {
+    "title": "Senden Sie uns Feedback",
+    "description": "Wir schätzen Ihre Rückmeldungen – melden Sie Fehler, Vorschläge oder allgemeines Feedback.",
+    "fields": {
+      "name": "Name (optional)",
+      "email": "E-Mail (optional)",
+      "message": "Nachricht"
+    },
+    "submit": "Senden"
+  }
+}

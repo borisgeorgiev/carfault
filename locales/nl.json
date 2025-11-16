@@ -1,0 +1,138 @@
+{
+  "common": {
+    "site_name": "Car Fault",
+    "terms": "Algemene Voorwaarden",
+    "privacy": "Privacy",
+    "copyright": "© 2025 Car Fault"
+  },
+  "home": {
+    "tagline": "Uw intelligente assistent voor autoproblemen.",
+    "description": "Van vreemde geluiden tot knipperende waarschuwingslampjes en foutcodes, Car Fault interpreteert uw invoer om uit te leggen wat er aan de hand is, de ernst in te schatten en u naar de juiste oplossing te leiden.",
+    "features": {
+      "fast_diagnosis": "Snelle Diagnose",
+      "fast_diagnosis_desc": "Upload een afbeelding of beschrijf het probleem; ontvang snel een duidelijke uitleg.",
+      "actionable_fixes": "Concrete Oplossingen",
+      "actionable_fixes_desc": "Waar beschikbaar, zie voorgestelde controles en oplossingen en de ernst van het probleem.",
+      "privacy_first": "Privacy Eerst",
+      "privacy_first_desc": "Geen gebruikersaccounts vereist. Analyse alleen via Firebase (zie Privacybeleid)."
+    },
+    "how_it_works": {
+      "title": "Hoe het werkt",
+      "steps": {
+        "upload": "Uploaden of Beschrijven",
+        "upload_desc": "Maak een foto van het waarschuwingslampje of schrijf een korte beschrijving van het probleem.",
+        "analysis": "AI-analyse",
+        "analysis_desc": "Car Fault analyseert de afbeelding/tekst op basis van een automotive kennisdatabase om waarschijnlijke oorzaken te identificeren.",
+        "explanation": "Uitleg & Oplossingen",
+        "explanation_desc": "Ontvang een ernstbeoordeling, mogelijke oorzaken en aanbevolen acties of oplossingen indien beschikbaar."
+      },
+      "cta": "Klaar om uw auto te diagnosticeren?"
+    }
+  },
+  "terms": {
+    "title": "Algemene Voorwaarden",
+    "last_updated": "Laatst bijgewerkt: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Inleiding",
+        "content": "Deze Algemene Voorwaarden (\"Voorwaarden\") regelen het gebruik van de Car Fault mobiele applicatie (de \"App\"). Door de App te gebruiken, gaat u akkoord met deze Voorwaarden. Als u het niet eens bent, gebruik de App dan niet. De App is ontwikkeld en wordt beheerd door een onafhankelijke ontwikkelaar gevestigd in de Europese Unie (de \"Ontwikkelaar\")."
+      },
+      "2": {
+        "title": "Gebruik van de App",
+        "content": "De App biedt algemene richtlijnen over dashboardwaarschuwingen en mogelijke problemen. De informatie is alleen ter referentie en vervangt geen professionele diagnose of reparatie. Gebruikers aanvaarden alle risico's voor acties die op basis van de App worden ondernomen."
+      },
+      "3": {
+        "title": "Geen Garantie",
+        "content": "De App wordt 'zoals het is' geleverd zonder garanties. Nauwkeurigheid of betrouwbaarheid wordt niet gegarandeerd."
+      },
+      "4": {
+        "title": "Beperking van Aansprakelijkheid",
+        "content": "De Ontwikkelaar is niet aansprakelijk voor schade als gevolg van het gebruik of het onvermogen om de App te gebruiken, inclusief voertuigschade of persoonlijk letsel."
+      },
+      "5": {
+        "title": "Abonnementen en Betalingen",
+        "content": "De App kan automatische abonnementen voor premiumfuncties aanbieden. Alle betalingen worden verwerkt via de Apple App Store. Gebruikers kunnen hun abonnementen beheren of annuleren in de instellingen van hun Apple ID-account. Terugbetalingen volgen het beleid van Apple. De Ontwikkelaar heeft geen toegang tot betalingsinformatie."
+      },
+      "6": {
+        "title": "Privacy & Gegevens",
+        "content": "De App verzamelt geen persoonlijke gegevens. Analyse- en marketing-SDK's (Firebase, Facebook) worden gebruikt om gebruikspatronen te begrijpen. Zie ons Privacybeleid voor details."
+      },
+      "7": {
+        "title": "Intellectueel Eigendom",
+        "content": "Alle inhoud, grafieken en merken zijn eigendom van de Ontwikkelaar of gelicentieerd aan de Ontwikkelaar. U mag geen inhoud kopiëren, distribueren of wijzigen zonder toestemming."
+      },
+      "8": {
+        "title": "Disclaimer",
+        "content": "De App biedt algemene richtlijnen. Raadpleeg een gekwalificeerde monteur voor professionele diagnose of reparatie. De Ontwikkelaar is niet verantwoordelijk voor schade of letsel als gevolg van acties op basis van App-informatie."
+      },
+      "9": {
+        "title": "Wijzigingen in de Voorwaarden",
+        "content": "De Ontwikkelaar kan deze Voorwaarden bijwerken. Voortgezet gebruik na updates geldt als acceptatie van de herziene Voorwaarden."
+      },
+      "10": {
+        "title": "Toepasselijk Recht",
+        "content": "Deze Voorwaarden worden beheerst door de wetten van de Europese Unie, ongeacht conflicterende wettelijke principes."
+      },
+      "11": {
+        "title": "Contact",
+        "content": "Voor vragen kunt u contact met ons opnemen via het feedbackformulier."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "last_updated": "Laatst bijgewerkt: 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Inleiding",
+        "content": "Dit Privacybeleid legt uit hoe de Car Fault mobiele applicatie (de \"App\") informatie verwerkt. De App is ontwikkeld en beheerd door een onafhankelijke ontwikkelaar gevestigd in de Europese Unie (de \"Ontwikkelaar\"). Car Fault verzamelt of slaat geen persoonlijke gegevens op. De App biedt algemene richtlijnen over waarschuwingslampjes en mogelijke problemen van voertuigen."
+      },
+      "2": {
+        "title": "Informatie die wij NIET verzamelen",
+        "content": "De App vraagt geen persoonlijke identificeerbare informatie, verzamelt of slaat deze niet op, zoals naam, e-mailadres, contactgegevens of accountregistratie. Het volgt gebruikers niet via andere apps of websites."
+      },
+      "3": {
+        "title": "Automatisch verzamelde informatie",
+        "content": "Om de App te verbeteren en gebruikspatronen te begrijpen, gebruikt Car Fault analysetools van derden die niet-identificeerbare technische gegevens verzamelen:\n- Firebase Analytics (Google LLC): verzamelt geanonimiseerde statistieken zoals sessieduur, crashrapporten en apparaattype. Deze gegevens worden niet gebruikt om u te volgen via andere apps of websites. Privacybeleid van Google.\n- Facebook SDK (Meta Platforms, Inc.): verzamelt geaggregeerde gebruiksgegevens voor het meten van marketingcampagnes. Geen persoonlijke identificaties worden gedeeld met de Ontwikkelaar. Privacybeleid van Facebook."
+      },
+      "4": {
+        "title": "Hoe analyseggegevens worden gebruikt",
+        "content": "Gegevens worden uitsluitend gebruikt om de App te verbeteren, gebruikersbetrokkenheid te begrijpen en functies te optimaliseren. Gebruikers kunnen het verzamelen van analysegegevens uitschakelen via apparaatinstellingen of App-opties."
+      },
+      "5": {
+        "title": "Abonnementen en Betalingen",
+        "content": "Car Fault biedt optionele automatisch verlengbare abonnementen. Alle betalingen en abonnementen worden beheerd via de Apple App Store. De Ontwikkelaar heeft geen toegang tot betalingsinformatie. Gebruikers kunnen hun abonnementen beheren of annuleren in de instellingen van hun Apple ID-account."
+      },
+      "6": {
+        "title": "Gegevensbeveiliging",
+        "content": "De App verzendt geen persoonlijke gegevens naar externe servers die door de Ontwikkelaar worden beheerd. Analyseggegevens worden beheerd volgens de beveiligingsrichtlijnen van derden. Geen enkel systeem kan volledig veilig worden gegarandeerd."
+      },
+      "7": {
+        "title": "Uw Rechten en Keuzes",
+        "content": "Gebruikers kunnen analysevoorkeuren beheren via apparaatinstellingen. Omdat de App geen persoonlijke gegevens opslaat, zijn er geen persoonlijke gegevens om te verwijderen of exporteren."
+      },
+      "8": {
+        "title": "Privacy van Kinderen",
+        "content": "De App is niet bedoeld voor kinderen onder de 16 jaar. Er worden geen persoonlijke gegevens van kinderen bewust verzameld of verwerkt."
+      },
+      "9": {
+        "title": "Wijzigingen in dit beleid",
+        "content": "De Ontwikkelaar kan dit Privacybeleid bijwerken. Voortgezet gebruik van de App na updates geldt als acceptatie van het herziene beleid."
+      },
+      "10": {
+        "title": "Contact",
+        "content": "Voor vragen over privacy kunt u contact met ons opnemen via het feedbackformulier."
+      }
+    }
+  },
+  "feedback": {
+    "title": "Stuur ons feedback",
+    "description": "We waarderen uw mening — meld bugs, suggesties of algemene feedback.",
+    "fields": {
+      "name": "Naam (optioneel)",
+      "email": "E-mail (optioneel)",
+      "message": "Bericht"
+    },
+    "submit": "Verzenden"
+  }
+}

@@ -3,65 +3,87 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Terms & Conditions — Car Fault</title>
+    <title data-i18n="terms.title">Terms & Conditions — Car Fault</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg py-3">
       <div class="container-lg">
-        <a class="navbar-brand fw-bold" href="index.html">Car Fault</a>
+        <a class="navbar-brand fw-bold" href="index.html" data-i18n="common.site_name">Car Fault</a>
         <div class="collapse navbar-collapse" id="navMenu">
           <ul class="navbar-nav ms-auto align-items-lg-center">
-            <li class="nav-item"><a class="nav-link" href="privacy.html">Privacy</a></li>
-            <li class="nav-item"><a class="btn btn-primary" href="feedback.html">Give Feedback</a></li>
+            <li class="nav-item"><a class="nav-link" href="privacy.html" data-i18n="common.privacy">Privacy</a></li>
+            <li class="nav-item"><a class="btn btn-primary" href="feedback.html" data-i18n="feedback.title">Give Feedback</a></li>
           </ul>
         </div>
+<div class="dropdown ms-3">
+  <button class="btn btn-outline-light dropdown-toggle d-flex align-items-center" type="button" id="langDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+    <span id="currentLangIcon" class="fi fi-us"></span>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" id="langDropdownMenu">
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="en"><span class="fi fi-us me-2"></span>English</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="de"><span class="fi fi-de me-2"></span>Deutsch</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="es"><span class="fi fi-es me-2"></span>Español</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="fr"><span class="fi fi-fr me-2"></span>Français</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="it"><span class="fi fi-it me-2"></span>Italiano</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="nl"><span class="fi fi-nl me-2"></span>Nederlands</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="ru"><span class="fi fi-ru me-2"></span>Русский</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="zh-Hans"><span class="fi fi-cn me-2"></span>中文</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="pt-BR"><span class="fi fi-br me-2"></span>Português (BR)</a></li>
+    <li><a class="dropdown-item d-flex align-items-center" href="#" data-lang="ar"><span class="fi fi-sa me-2"></span>العربية</a></li>
+  </ul>
+</div>
       </div>
     </nav>
 
     <main class="container-lg">
       <article class="card p-4 mt-4">
-        <h1>Terms & Conditions</h1>
-        <p>Last updated: 2025-10-30</p>
+        <h1 data-i18n="terms.title">Terms & Conditions</h1>
+        <p data-i18n="terms.last_updated">Last updated: 2025-10-30</p>
 
-        <h4>1. Introduction</h4>
-        <p>These Terms and Conditions ("Terms") govern your use of the Car Fault mobile application (the "App"). By using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.</p>
-        <p>The App is developed and operated by an independent developer based in the European Union (the "Developer").</p>
+        <h4 data-i18n="terms.sections.1.title">Introduction</h4>
+        <p data-i18n="terms.sections.1.content">These Terms and Conditions ("Terms") govern your use of the Car Fault mobile application (the "App"). By using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App. The App is developed and operated by an independent developer based in the European Union (the "Developer").</p>
 
-        <h4>2. Use of the App</h4>
-        <p>The App provides general guidance about vehicle dashboard warnings and possible issues. The information is for reference only and does not replace professional diagnostics or repair. Users assume all risk for actions taken based on the App’s guidance.</p>
+        <h4 data-i18n="terms.sections.2.title">Use of the App</h4>
+        <p data-i18n="terms.sections.2.content">The App provides general guidance about vehicle dashboard warnings and possible issues. The information is for reference only and does not replace professional diagnostics or repair. Users assume all risk for actions taken based on the App’s guidance.</p>
 
-        <h4>3. No Warranty</h4>
-        <p>The App is provided "as is" without warranties. Accuracy or reliability is not guaranteed.</p>
+        <h4 data-i18n="terms.sections.3.title">No Warranty</h4>
+        <p data-i18n="terms.sections.3.content">The App is provided "as is" without warranties. Accuracy or reliability is not guaranteed.</p>
 
-        <h4>4. Limitation of Liability</h4>
-        <p>The Developer is not liable for any damages arising from the use or inability to use the App, including vehicle damage or personal injury.</p>
+        <h4 data-i18n="terms.sections.4.title">Limitation of Liability</h4>
+        <p data-i18n="terms.sections.4.content">The Developer is not liable for any damages arising from the use or inability to use the App, including vehicle damage or personal injury.</p>
 
-        <h4>5. Subscriptions & Payments</h4>
-        <p>The App may offer auto-renewable subscriptions for premium features. All payments are processed through Apple’s App Store. Users can manage or cancel subscriptions in their Apple ID account settings. Refunds follow Apple’s policies. The Developer does not access payment information.</p>
+        <h4 data-i18n="terms.sections.5.title">Subscriptions & Payments</h4>
+        <p data-i18n="terms.sections.5.content">The App may offer auto-renewable subscriptions for premium features. All payments are processed through Apple’s App Store. Users can manage or cancel subscriptions in their Apple ID account settings. Refunds follow Apple’s policies. The Developer does not access payment information.</p>
 
-        <h4>6. Privacy & Data</h4>
-        <p>The App does not collect personal data. Analytics and marketing SDKs (Firebase, Facebook) are used to understand usage patterns. For details, see our <a href="privacy.html" onclick="location.href=this.href+(window.location.search?window.location.search:'');return false;">Privacy Policy</a>.</p>
+        <h4 data-i18n="terms.sections.6.title">Privacy & Data</h4>
+        <p>
+          <span data-i18n="terms.sections.6.content">The App does not collect personal data. Analytics and marketing SDKs (Firebase, Facebook) are used to understand usage patterns. For details, see our</span> 
+          <a href="privacy.html" onclick="location.href=this.href+(window.location.search?window.location.search:'');return false;" data-i18n="common.privacy">Privacy Policy</a>.
+        </p>
 
-        <h4>7. Intellectual Property</h4>
-        <p>All content, graphics, and trademarks are owned by the Developer or licensed to the Developer. You may not copy, distribute, or modify any content without permission.</p>
+        <h4 data-i18n="terms.sections.7.title">Intellectual Property</h4>
+        <p data-i18n="terms.sections.7.content">All content, graphics, and trademarks are owned by the Developer or licensed to the Developer. You may not copy, distribute, or modify any content without permission.</p>
 
-        <h4>8. Disclaimer</h4>
-        <p>The App provides general guidance. Consult a qualified mechanic for professional diagnosis or repair. The Developer is not responsible for any damage or injury resulting from actions based on App information.</p>
+        <h4 data-i18n="terms.sections.8.title">Disclaimer</h4>
+        <p data-i18n="terms.sections.8.content">The App provides general guidance. Consult a qualified mechanic for professional diagnosis or repair. The Developer is not responsible for any damage or injury resulting from actions based on App information.</p>
 
-        <h4>9. Changes to Terms</h4>
-        <p>The Developer may update these Terms. Continued use after updates constitutes acceptance of the revised Terms.</p>
+        <h4 data-i18n="terms.sections.9.title">Changes to Terms</h4>
+        <p data-i18n="terms.sections.9.content">The Developer may update these Terms. Continued use after updates constitutes acceptance of the revised Terms.</p>
 
-        <h4>10. Governing Law</h4>
-        <p>These Terms are governed by the laws of the European Union, without regard to conflict of law principles.</p>
+        <h4 data-i18n="terms.sections.10.title">Governing Law</h4>
+        <p data-i18n="terms.sections.10.content">These Terms are governed by the laws of the European Union, without regard to conflict of law principles.</p>
 
-        <h4>11. Contact</h4>
-        <p>For questions, please <a href="feedback.html" onclick="location.href=this.href+(window.location.search?window.location.search:'');return false;">contact us via the feedback form</a>.</p>
+        <h4 data-i18n="terms.sections.11.title">Contact</h4>
+        <p>
+          <span data-i18n="terms.sections.11.content">For questions, please</span> 
+          <a href="feedback.html" onclick="location.href=this.href+(window.location.search?window.location.search:'');return false;" data-i18n="feedback.title">contact us via the feedback form</a>.
+        </p>
       </article>
 
       <footer class="mt-5 footer text-center">
-        <p class="mb-1">© 2025 Car Fault</p>
+        <p class="mb-1" data-i18n="common.copyright">© 2025 Car Fault</p>
       </footer>
     </main>
 

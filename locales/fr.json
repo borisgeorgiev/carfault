@@ -1,0 +1,141 @@
+{
+  "common": {
+    "site_name": "Car Fault",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "copyright": "© 2025 Car Fault"
+  },
+  "home": {
+    "tagline": "Votre assistant intelligent pour les problèmes de voiture.",
+    "description": "Des bruits étranges aux voyants clignotants et codes d'erreur, Car Fault interprète vos informations pour expliquer ce qui se passe, estimer la gravité et vous guider vers la bonne solution.",
+    "features": {
+      "fast_diagnosis": "Diagnostic Rapide",
+      "fast_diagnosis_desc": "Téléchargez une image ou décrivez le problème ; recevez rapidement une explication claire.",
+      "actionable_fixes": "Solutions Pratiques",
+      "actionable_fixes_desc": "Lorsque disponible, consultez les vérifications et correctifs suggérés ainsi que la gravité du problème.",
+      "privacy_first": "Confidentialité Prioritaire",
+      "privacy_first_desc": "Aucun compte utilisateur requis. Analyses uniquement via Firebase (voir Politique de Confidentialité)."
+    },
+    "how_it_works": {
+      "title": "Comment ça fonctionne",
+      "steps": {
+        "upload": "Télécharger ou Décrire",
+        "upload_desc": "Prenez une photo du voyant ou rédigez une brève description du problème.",
+        "analysis": "Analyse IA",
+        "analysis_desc": "Car Fault analyse l'image/le texte avec une base de connaissances automobile pour identifier les causes probables.",
+        "explanation": "Explication et Solutions",
+        "explanation_desc": "Recevez une évaluation de gravité, les causes possibles et les actions ou correctifs recommandés si disponibles."
+      },
+      "cta": "Prêt à diagnostiquer votre voiture ?"
+    }
+  },
+
+  "terms": {
+    "title": "Conditions Générales",
+    "last_updated": "Dernière mise à jour : 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Introduction",
+        "content": "Ces Conditions Générales (\"Conditions\") régissent votre utilisation de l'application mobile Car Fault (l'\"App\"). En utilisant l'App, vous acceptez d'être lié par ces Conditions. Si vous n'êtes pas d'accord, veuillez ne pas utiliser l'App. L'App est développée et exploitée par un développeur indépendant basé dans l'Union Européenne (le \"Développeur\")."
+      },
+      "2": {
+        "title": "Utilisation de l'App",
+        "content": "L'App fournit des conseils généraux sur les voyants du tableau de bord et les problèmes possibles. Les informations sont fournies à titre indicatif seulement et ne remplacent pas un diagnostic ou une réparation professionnelle. Les utilisateurs assument tous les risques liés aux actions entreprises sur la base des conseils de l'App."
+      },
+      "3": {
+        "title": "Aucune Garantie",
+        "content": "L'App est fournie \"telle quelle\" sans garanties. La précision ou la fiabilité n'est pas garantie."
+      },
+      "4": {
+        "title": "Limitation de Responsabilité",
+        "content": "Le Développeur n'est pas responsable des dommages résultant de l'utilisation ou de l'incapacité à utiliser l'App, y compris les dommages au véhicule ou les blessures personnelles."
+      },
+      "5": {
+        "title": "Abonnements et Paiements",
+        "content": "L'App peut proposer des abonnements automatiques pour des fonctionnalités premium. Tous les paiements sont traités via l'App Store d'Apple. Les utilisateurs peuvent gérer ou annuler leurs abonnements depuis les paramètres de leur compte Apple ID. Les remboursements suivent les politiques d'Apple. Le Développeur n'a pas accès aux informations de paiement."
+      },
+      "6": {
+        "title": "Confidentialité et Données",
+        "content": "L'App ne collecte pas de données personnelles. Des SDK d'analyse et de marketing (Firebase, Facebook) sont utilisés pour comprendre les habitudes d'utilisation. Pour plus de détails, consultez notre Politique de Confidentialité."
+      },
+      "7": {
+        "title": "Propriété Intellectuelle",
+        "content": "Tout le contenu, les graphiques et les marques sont la propriété du Développeur ou licenciés au Développeur. Vous ne pouvez pas copier, distribuer ou modifier le contenu sans autorisation."
+      },
+      "8": {
+        "title": "Avertissement",
+        "content": "L'App fournit des conseils généraux. Consultez un mécanicien qualifié pour un diagnostic ou une réparation professionnelle. Le Développeur n'est pas responsable des dommages ou blessures résultant des actions basées sur les informations de l'App."
+      },
+      "9": {
+        "title": "Modifications des Conditions",
+        "content": "Le Développeur peut mettre à jour ces Conditions. L'utilisation continue après les mises à jour constitue une acceptation des Conditions révisées."
+      },
+      "10": {
+        "title": "Loi Applicable",
+        "content": "Ces Conditions sont régies par les lois de l'Union Européenne, sans tenir compte des principes de conflit de lois."
+      },
+      "11": {
+        "title": "Contact",
+        "content": "Pour toute question, veuillez nous contacter via le formulaire de retour d'expérience."
+      }
+    }
+  },
+
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "last_updated": "Dernière mise à jour : 30-10-2025",
+    "sections": {
+      "1": {
+        "title": "Introduction",
+        "content": "Cette Politique de Confidentialité explique comment l'application mobile Car Fault (l'\"App\") traite les informations. L'App est développée et exploitée par un développeur indépendant basé dans l'Union Européenne (le \"Développeur\"). Car Fault ne collecte ni n'enregistre de données personnelles. L'App fournit des informations générales sur les voyants du véhicule et les problèmes potentiels."
+      },
+      "2": {
+        "title": "Informations que Nous Ne Collectons Pas",
+        "content": "L'App ne demande, ne collecte ni n'enregistre d'informations personnelles identifiables telles que votre nom, adresse e-mail, coordonnées ou inscription de compte. Elle ne suit pas les utilisateurs à travers d'autres applications ou sites web."
+      },
+      "3": {
+        "title": "Informations Collectées Automatiquement",
+        "content": "Pour améliorer l'App et comprendre les habitudes d'utilisation, Car Fault utilise des outils d'analyse tiers qui collectent des données techniques anonymes :\n- Firebase Analytics (Google LLC) : collecte des métriques anonymes telles que la durée des sessions, les rapports de crash et le type d'appareil. Ces données ne sont pas utilisées pour vous suivre à travers d'autres applications ou sites web. Politique de Confidentialité de Google.\n- Facebook SDK (Meta Platforms, Inc.) : collecte des données d'utilisation agrégées pour mesurer les campagnes marketing. Aucun identifiant personnel n'est partagé avec le Développeur. Politique de Confidentialité de Facebook."
+      },
+      "4": {
+        "title": "Comment les Données d'Analyse Sont Utilisées",
+        "content": "Les données sont utilisées uniquement pour améliorer l'App, comprendre l'engagement des utilisateurs et optimiser les fonctionnalités. Les utilisateurs peuvent désactiver la collecte d'analyses via les paramètres de l'appareil ou les options de l'App."
+      },
+      "5": {
+        "title": "Abonnements et Paiements",
+        "content": "Car Fault propose des abonnements automatiques optionnels. Toute la gestion des paiements et abonnements est effectuée via l'App Store d'Apple. Le Développeur n'a pas accès aux informations de paiement. Les utilisateurs peuvent gérer ou annuler leurs abonnements depuis les paramètres de leur compte Apple ID."
+      },
+      "6": {
+        "title": "Sécurité des Données",
+        "content": "L'App ne transmet pas de données personnelles à des serveurs externes contrôlés par le Développeur. Les données d'analyse sont gérées conformément aux politiques de sécurité des tiers. Aucun système ne peut être garanti entièrement sécurisé."
+      },
+      "7": {
+        "title": "Vos Droits et Choix",
+        "content": "Les utilisateurs peuvent gérer leurs préférences d'analyse via les paramètres de l'appareil. Comme l'App ne stocke pas de données personnelles, aucune information personnelle n'est à supprimer ou à exporter."
+      },
+      "8": {
+        "title": "Confidentialité des Enfants",
+        "content": "L'App n'est pas destinée aux enfants de moins de 16 ans. Elle ne collecte ni ne traite sciemment de données personnelles d'enfants."
+      },
+      "9": {
+        "title": "Modifications de Cette Politique",
+        "content": "Le Développeur peut mettre à jour cette Politique de Confidentialité. L'utilisation continue de l'App après les mises à jour constitue une acceptation de la politique révisée."
+      },
+      "10": {
+        "title": "Contact",
+        "content": "Pour toute question sur la confidentialité, veuillez nous contacter via le formulaire de retour d'expérience."
+      }
+    }
+  },
+
+  "feedback": {
+    "title": "Envoyez-nous vos commentaires",
+    "description": "Nous apprécions vos retours — signalez des bugs, suggestions ou commentaires généraux.",
+    "fields": {
+      "name": "Nom (optionnel)",
+      "email": "E-mail (optionnel)",
+      "message": "Message"
+    },
+    "submit": "Envoyer"
+  }
+}
